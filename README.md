@@ -17,7 +17,10 @@ The game takes place aboard a train, consisting of a locomotive and a certain nu
 
 *Action:* all the first actions are carried out, then all the second actions, and so on until the end.
 
-![coltExpress](https://github.com/IdirDB/Colt-Express/assets/169926706/b2c28c5e-e177-45b7-9992-e82ecde7cd09) ![colt](https://github.com/IdirDB/Colt-Express/assets/169926706/584463da-3522-4124-82f6-7a5843338235)
+<p align="center">
+  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/b2c28c5e-e177-45b7-9992-e82ecde7cd09" alt="Colt Express" style="width: 45%;">
+  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/584463da-3522-4124-82f6-7a5843338235" alt="Colt" style="width: 45%;">
+</p>
 
 ## Bandit Actions and Loot
 
