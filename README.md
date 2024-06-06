@@ -3,9 +3,8 @@
 This programming project aims to create a computerized and slightly simplified version of the game Colt Express.
 
 <p align="center">
-  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/0b0fc29d-48ff-4ef3-9a1b-ee578431cd15" alt="Colt Express">
-</p>
-
+<img src="https://github.com/IdirDB/Colt-Express/assets/169926706/0d672e68-3052-4974-83a9-248aea6d7d1c" alt="Accueil style="width: 40%;">
+</p>  
 
 ## Overview of the game rules
 
@@ -18,8 +17,7 @@ The game takes place aboard a train, consisting of a locomotive and a certain nu
 *Action:* all the first actions are carried out, then all the second actions, and so on until the end.
 
 <p align="center">
-  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/b2c28c5e-e177-45b7-9992-e82ecde7cd09" alt="Colt Express" style="width: 45%;">
-  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/584463da-3522-4124-82f6-7a5843338235" alt="Colt" style="width: 45%;">
+  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/0b0fc29d-48ff-4ef3-9a1b-ee578431cd15" alt="Colt Express">
 </p>
 
 ## Bandit Actions and Loot
@@ -36,6 +34,11 @@ The recoverable loot aboard the train includes:
 - A stash worth 1000$, inside the locomotive, guarded by the Marshal.
 
 A Marshal is present on board the train and can move between the locomotive and the carriages, always staying inside. He shoots at any bandits in the same position as him and forces them to retreat to the roof.
+
+<p align="center">
+  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/b2c28c5e-e177-45b7-9992-e82ecde7cd09" alt="Colt Express" style="width: 45%;">
+  <img src="https://github.com/IdirDB/Colt-Express/assets/169926706/584463da-3522-4124-82f6-7a5843338235" alt="Colt" style="width: 45%;">
+</p>
 
 ## Organization
 The application is organized according to a Model-View-Controller (MVC) architecture.
